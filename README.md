@@ -1,0 +1,2 @@
+# Deterministic_Segmentation
+Deterministic Segmentation using Python
